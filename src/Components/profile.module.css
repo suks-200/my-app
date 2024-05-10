@@ -1,0 +1,39 @@
+#main{
+    border: black;
+    border-radius: 50px;
+    background-color: aquamarine;
+width: 500px;
+justify-content: center;
+align-items: center;
+
+}
+#a{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 250px;
+margin-top: 40%;  
+padding: auto; 
+ background-color: black;
+border-radius: 50%;
+align-items: center;
+justify-content: center;
+display: flex;
+    
+}
+#name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+#butt{
+    padding: auto;
+    margin: auto;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: green;
+margin-bottom: 20px;
+    
+}

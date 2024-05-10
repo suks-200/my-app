@@ -1,0 +1,37 @@
+#profile{
+    display: inline-block;
+    justify-content: center;
+    border-color: black;
+    border-radius: 20px;
+    background-color: aquamarine;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 17%;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 300px;
+    align-items: center;
+}
+#id{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: cadetblue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#title{
+    justify-content: center;
+    align-items: center;
+    margin-top:50px ;
+    font-size: medium;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#butt{
+    margin-left: 20px;
+    background-color: burlywood;
+}
